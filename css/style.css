@@ -465,6 +465,7 @@ nav ul a{
     outline: none;
     position: relative;
     padding: 10px;
+    margin-left: 10%;
     }
   
   .button::before {
